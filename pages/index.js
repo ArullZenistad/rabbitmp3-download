@@ -77,7 +77,7 @@ export default function Home() {
             dapat menjumpai lagu dengan offline tanpa harus terhubung ke selaput
             internet, terlebih bagi Dikau yang tenteram travelling. Akar
             mendengarkan musik secara streaming membuat Kita terbatas dalam
-            memutarnya. <br></br>baca selengkapnya di
+            memutarnya. <br></br>baca selengkapnya di 
             <a
               href="https://rabbitmp3.cc"
             >rabbitmp3.cc</a>
